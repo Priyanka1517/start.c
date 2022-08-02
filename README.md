@@ -1,2 +1,5 @@
-# start.c
-just for learning 
+#include <stdio.h>
+
+int main(){
+printf("hi") ;
+}
